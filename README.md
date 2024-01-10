@@ -1,4 +1,4 @@
 # OIB-SIP
 TASK 1 LANDING-PAGE
-TASK 2 PORTIFOLIO
-TASK 3 TEMPERATURE-CONVERTER
+It is a general purpose vpn page developed by using the front technologies HTML, CSS
+
